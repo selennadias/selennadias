@@ -20,6 +20,7 @@
 <i class="devicon-facebook-plain colored"></i>
 
 <h3> Minhas Tecnologia </h3>
+<br>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="100px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="100px">
